@@ -8,7 +8,7 @@ apt install git
 apt install python
 ```
 ```
-apt install requests
+pip install requests
 ```			
 ## Usage
 ```
