@@ -1,3 +1,5 @@
+# RIX-IP-fyner
+
 ## Installation
 ```
 apt install git
