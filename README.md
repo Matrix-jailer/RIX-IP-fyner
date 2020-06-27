@@ -1,16 +1,26 @@
-Rix-IP
-Gathers information about a Particular IP address.
-
-Installation
+## Installation
+```
+apt install git
+```
+```
 apt install python
-pip install requests
-
-Usage
+```
+```
+apt install requests
+```			
+## Usage
+```
 python Rix-ip.py -t [ Target ip ]
+```
+```
+python Rix-ip.py -h #tool help command
+```
 
-Contribution
-If you want to contribute here just fork and open a pull request. 
+## Contribution
+
+If you want to contribute here 
+just fork and open a pull request. 
 if you have any suggestions to improve this project 
 just open an issue.
-Found a Bug in code?Just Open an Issue fast!
-																	  
+Found a Problem in Code ?
+Open issue asap :-)
